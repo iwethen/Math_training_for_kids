@@ -1,6 +1,6 @@
 Operations=["+","-","×","÷"]        #Operations for training. Only "+","-","×","÷" are accepted, you can remove them if you dont want to use
-Right_answer_sound_path="C:\\Users\\iwethen\\PycharmProjects\\hesap\\right\\"       # Path for sounds of correct answers.
-Wrong_answer_sound_path="C:\\Users\\iwethen\\PycharmProjects\\hesap\\wrong\\"        # Path for sounds of Wrong answers.
+Right_answer_sound_path="Path to sounds of right answers"       # Path for sounds of correct answers.
+Wrong_answer_sound_path="Path to soudns of wrong answers"        # Path for sounds of Wrong answers.
 Range_addition1=[0,20]      #Range for First Number of addition
 Range_addition2=[0,15]       #Range for Second Number of addition
 Range_subtraction1=[0,100]       #Range for First Number of Subtraction
